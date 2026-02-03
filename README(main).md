@@ -8,14 +8,12 @@ This project is developed as a **Mini Project** to demonstrate frontend developm
 ---
 
 ## 🔗 Live Demo
-👉 https://your-deployed-link.vercel.app  
-*(Replace with your actual deployed link)*
+👉 https://ottapps.netlify.app/
 
 ---
 
 ## 📂 GitHub Repository
-👉 https://github.com/your-username/streamify  
-*(Replace with your repo link)*
+👉 https://github.com/athul6282/OttApp.git
 
 ---
 
